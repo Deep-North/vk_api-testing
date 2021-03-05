@@ -1,6 +1,6 @@
 import requests
 from pytest_bdd import scenario, given, when, then
-import  setup as S
+import  setup as S #I use setup.py to hide vk service tocken. It looks like "access_token='23ab7b1...c0203ebc'"
 
 user_id = '210700286'
 
