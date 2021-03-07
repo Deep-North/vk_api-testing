@@ -1,4 +1,4 @@
-Feature: Auth
+Feature: login
     Testing VK api
     Scenario: login
         Given Request string to vk api
